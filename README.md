@@ -9,3 +9,5 @@ Geophysics
 3.plates boundaries: https://seisman.info/plate-boundary-datasets.html
 
 4.rate & age:https://seisman.info/ocean-floor-crustal-age.html
+
+5.magnetic anomaly grid-2 arc min:http://www.geomag.us/models/emag2.html
